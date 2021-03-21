@@ -1,12 +1,12 @@
 # Skills
-# tba
-- skill: tba
-  description: tba
+# BA
+- skill: analysis + design
+  description: BPMN, UML, Enterprise Architect, Visual Paradigm, AxureRP
 
-# tba
-- skill: tba
-  description: tba
+# data analysis
+- skill: data
+  description: T-SQL, DAX, MS PowerBI + MS Power Platform, MS Azure Data Factory
 
-# tba
-- skill: tba
-  description: tba
+# pm
+- skill: project flow
+  description: SCRUM (prefer) + waterfall (avoid)
