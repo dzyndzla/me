@@ -1,13 +1,15 @@
 # Degree
-- degree: tba
-  uni: tba
-  year: tba
-  awards:
-    - award: tba
+- degree: Economics
+  uni: Cracow University of Economics
+  year: 2010 - 2012
   summary: tba
 
-- degree: tba
-  uni: tba
-  year: tba
-  award: tba
+- degree: Public economics
+  uni: Cracow University of Economics
+  year: 2007 - 2010
+  summary: tba
+  
+  - degree: Political sciences
+  uni: Peedagogical University of Cracow
+  year: 2005 - 2010
   summary: tba
