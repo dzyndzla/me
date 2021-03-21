@@ -1,18 +1,26 @@
 # Jobs
 # 1
-- company: tbaddddddddddddd
-  position: tba
-  duration: tba
-  summary: tba
+- company: Hitachi ABB Power Grids
+  position: IT Business Analyst
+  duration: dec 2019 &mdash; present
+  #summary: 
 # 2
-- company: tba
-  position: tba
-  duration:  tba
-  summary: tba
-
-
+- company: ABB
+  position: IS Functional Analyst
+  duration: dec 2017 &mdash; dec 2019
+  #summary: 
 # 3
-- company: tba
+- company: Transition Technologies
+  position: Business Analyst
+  duration: jun 2017 &mdash; dec 2017
+  #summary: 
+# 4
+- company: Ericsson
   position: tba
-  duration:   tba
-  summary: tba
+  duration: mar 2014 &mdash; may 2017
+  #summary: 
+# 5
+- company: Sekwencja
+  position: Consultant
+  duration: jul 2011 &mdash; feb 2014
+  #summary: 
